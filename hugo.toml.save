@@ -1,7 +1,6 @@
 baseURL = '/'
-contentdir = "content"
+contentdir = 'content'
 locale = 'fr-fr'
-DefaultContentLanguage = "en"
 title = 'GdBlog'
 theme = 'PaperMod'
 
@@ -21,7 +20,3 @@ name = "About me"
 url = "/pages/about"
 weight = 3
 
-[[menu.main]]
-name = "Github"
-url = "https://github.com/GdXcIi"
-weight = 4
