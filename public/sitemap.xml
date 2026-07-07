@@ -3,6 +3,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/gdblog/</loc>
+    <lastmod>2026-07-07T21:18:54+02:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/pages/about/</loc>
     <lastmod>2026-07-07T17:54:47+02:00</lastmod>
   </url><url>
