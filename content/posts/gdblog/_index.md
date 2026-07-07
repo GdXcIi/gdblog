@@ -13,7 +13,7 @@ So if you're interested about:
 - what are the worst errors to never do
 - or just my quotidian coding this blog and making it evoluating
 
-... you should be interesting by this section!
+... you should be interested by this section!
 
 ---
 
