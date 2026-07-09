@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Posts on GdBlog</title>
-		<link>//localhost:39573/posts/</link>
-		<description>Recent content in Posts on GdBlog</description>
-		<generator>Hugo</generator>
-		<language>fr-fr</language>
-		
-		
-		
-		
-			<lastBuildDate>Mon, 06 Jul 2026 16:04:38 +0200</lastBuildDate>
-		
-			<atom:link href="//localhost:39573/posts/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Hello everyone on my blog!</title>
-				<link>//localhost:39573/posts/hello/</link>
-				<pubDate>Mon, 06 Jul 2026 16:04:38 +0200</pubDate>
-				<guid>//localhost:39573/posts/hello/</guid>
-				<description>&lt;h2 id=&#34;hello-everyone&#34;&gt;Hello everyone!&lt;/h2&gt;&#xA;&lt;p&gt;I just wanted to say hello because this is my first post on this blog!&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-will-i-post-on-my-blog&#34;&gt;What will I post on my blog?&lt;/h3&gt;&#xA;&lt;p&gt;I will post about my projects (eg: Space&amp;hellip;), some hacks on Linux, about bugs in my projects in my hacks and I feel them, etc&amp;hellip;&lt;/p&gt;</description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on GdBlog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on GdBlog</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 06 Jul 2026 16:04:38 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello everyone on my blog!</title>
+      <link>//localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 06 Jul 2026 16:04:38 +0200</pubDate>
+      <guid>//localhost:1313/posts/hello/</guid>
+      <description>&lt;h2 id=&#34;hello-everyone&#34;&gt;Hello everyone!&lt;/h2&gt;
+&lt;p&gt;I just wanted to say hello because this is my first post on this blog!&lt;/p&gt;
+&lt;h3 id=&#34;what-will-i-post-on-my-blog&#34;&gt;What will I post on my blog?&lt;/h3&gt;
+&lt;p&gt;I will post about my projects (eg: Space&amp;hellip;), some hacks on Linux, about bugs in my projects in my hacks and I feel them, etc&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

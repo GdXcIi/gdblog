@@ -3,29 +3,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:39573/posts/space/</loc>
+    <loc>//localhost:1313/posts/space/</loc>
     <lastmod>2026-07-07T22:04:39+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/posts/gdblog/</loc>
+    <loc>//localhost:1313/posts/gdblog/</loc>
     <lastmod>2026-07-07T21:18:54+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/pages/about/</loc>
+    <loc>//localhost:1313/pages/about/</loc>
     <lastmod>2026-07-07T17:54:47+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/pages/</loc>
+    <loc>//localhost:1313/pages/</loc>
     <lastmod>2026-07-07T17:54:47+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2026-07-07T17:33:05+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-07-07T17:20:16+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/posts/hello/</loc>
+    <loc>//localhost:1313/posts/hello/</loc>
     <lastmod>2026-07-06T16:04:38+02:00</lastmod>
   </url><url>
-    <loc>//localhost:39573/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>//localhost:39573/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
