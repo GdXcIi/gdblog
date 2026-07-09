@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hyprland Ricing Experimentations on GdBlog</title>
+		<link>//localhost:39573/posts/hyprlandricing/</link>
+		<description>Recent content in Hyprland Ricing Experimentations on GdBlog</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate></lastBuildDate>
+		
+			<atom:link href="//localhost:39573/posts/hyprlandricing/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>

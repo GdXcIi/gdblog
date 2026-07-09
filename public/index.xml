@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 07 Jul 2026 17:54:47 +0200</lastBuildDate>
+			<lastBuildDate>Wed, 08 Jul 2026 12:51:27 +0200</lastBuildDate>
 		
 			<atom:link href="//localhost:39573/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Roadmap of Space</title>
+				<link>//localhost:39573/posts/space/roadmap/</link>
+				<pubDate>Wed, 08 Jul 2026 12:51:27 +0200</pubDate>
+				<guid>//localhost:39573/posts/space/roadmap/</guid>
+				<description>&lt;h2 id=&#34;roadmap-to-10-version&#34;&gt;Roadmap to 1.0 version&lt;/h2&gt;&#xA;&lt;p&gt;Hello everyone!&lt;/p&gt;&#xA;&lt;p&gt;Today I&amp;rsquo;m presenting you my roadmap to Space 1.0 stable release, which should release on April 12, 2029.&lt;/p&gt;&#xA;&lt;h3 id=&#34;v01---a-minimalistic-but-functional-microkernel&#34;&gt;v0.1 - A minimalistic (but functional!) microkernel&lt;/h3&gt;&#xA;&lt;p&gt;0.1 version won&amp;rsquo;t be very very impressive. It will just be a microkernel that works but which is very minimalistic.&lt;/p&gt;&#xA;&lt;p&gt;This version will include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;a minimalistic memory manager&lt;/li&gt;&#xA;&lt;li&gt;a minimalistic logging system (but kernel panic will be working!)&lt;/li&gt;&#xA;&lt;li&gt;a few syscalls for only necessary things:&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;send_ipc&lt;/code&gt; = asks the microkernel to send an IPC&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;wait_ipc&lt;/code&gt; = says the microkernel that we wait for an IPC (practical for the scheduler)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;alloc&lt;/code&gt; = asks the microkernel to allocate memory&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;free&lt;/code&gt; = asks the microkernel to free memory&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;get_hardware_perms&lt;/code&gt; = asks the microkernel to get a hardware permission (just a placeholder because 0.1 won&amp;rsquo;t include security and permissions logic)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;get_ipc_perms&lt;/code&gt; = asks the microkernel to get an ipc permission (idem)&lt;/li&gt;&#xA;&lt;li&gt;no security and permissions logic (this is not critical for the functionment of the microkernel)&lt;/li&gt;&#xA;&lt;li&gt;a minimalistic ipc-centric scheduler&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;v02---stabilization-of-the-01&#34;&gt;v0.2 - Stabilization of the 0.1&lt;/h3&gt;&#xA;&lt;p&gt;This version won&amp;rsquo;t bring a lot, just stabilizations of the v0.1.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>About me</title>
 				<link>//localhost:39573/pages/about/</link>
