@@ -1,6 +1,6 @@
 +++
 date = '2026-07-08T12:51:27+02:00'
-draft = true
+draft = false
 title = 'Roadmap of Space'
 +++
 
